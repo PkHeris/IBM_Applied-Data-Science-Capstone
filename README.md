@@ -1,5 +1,1 @@
-# IBM_Applied-Data-Science-Capstone+
-
-## Week 1
-
-Data Collection API.ipynb
+These are my answers to the IBM Applied Data Science course
